@@ -359,19 +359,19 @@ w
     background: crimson;
 }
 .skills-content .right .html::before{
-    width: 90%;
+    width: 70%;
 }
 .skills-content .right .css::before{
     width: 60%;
 }
 .skills-content .right .js::before{
-    width: 80%;
+    width: 60%;
 }
 .skills-content .right .DataStructureandAlgorithm::before{
-    width: 50%;
+    width: 70%;
 }
 .skills-content .right .CompetitiveProgramming::before{
-    width: 70%;
+    width: 80%;
 }
 
 /* teams section styling */
